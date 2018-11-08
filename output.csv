@@ -1,0 +1,5 @@
+Started,Finished,DurationSecs,FromStopId,ToStopId,ChargeAmount,CompanyId,BusID,PAN,Status
+22-01-2018 13:00:00,22-01-2018 13:05:00,300,Stop1,Stop2,325,Company1,Bus37,5500005555555559
+22-01-2018 14:22:00,22-01-2018 14:22:30,30,Stop2,Stop2,0,Company1,Bus37,5500005555555560
+23-01-2018 15:32:00,null,null,Stop3,null,730,Company1,Bus37,5500005555555561
+24-01-2018 13:05:00,null,null,Stop2,null,730,Company1,Bus37,5500005555555562
